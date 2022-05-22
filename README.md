@@ -1,8 +1,7 @@
 # Virtual_Ecosystem
 ***IN PROGRESS***
 
-Wirtualny ekosystem to prosty biocybernetyczny symulator rozwoju ekosystemu, który
-tworzą trzy gatunki wirtualnych organizmów: glony – oznaczone jako *, grzyby # i bakterie
+Istnieją trzy gatunki wirtualnych organizmów: glony – oznaczone jako *, grzyby # i bakterie
 @. Środowisko ekosystemu to prostokątna tablica składająca się z komórek, które nazywane
 są dalej niszami. Każda nisza może być albo pusta, albo zajęta przez żywy organizm,
 albo zajęta przez organizm martwy. Każda nisza ma swoje bezpośrednie sąsiedztwo.
