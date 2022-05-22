@@ -24,7 +24,7 @@ Glon zaś po prostu pozyskuje pożywienie (prowadzi fotosyntezę). W pojedynczym
 symulacji dla każdego organizmu możliwy jest 1 posiłek. Każdy organizm ma swój limit
 posiłków, po przekroczeniu którego już nie jest głodny i już nie szuka lub nie produkuje
 pożywienia. Limit posiłków jest charakterystyczny dla każdego gatunku.
-Zintegrowany Program Rozwoju Politechniki Lubelskiej
+
 
 
 Jeżeli organizm nie jest głodny to stara się rozmnożyć. Organizm szuka w swoim
