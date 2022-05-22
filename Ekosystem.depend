@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1647942012 source:c:\users\msi\desktop\program\ekosystem\generatorlosowy.cpp
+	"generatorlosowy.h"
+
+1647942006 c:\users\msi\desktop\program\ekosystem\generatorlosowy.h
+	<random>
+
+1649748090 source:c:\users\msi\desktop\program\ekosystem\mieszkaniec.cpp
+	"mieszkaniec.h"
+
+1649748090 c:\users\msi\desktop\program\ekosystem\mieszkaniec.h
+	"ustawienia.h"
+
+1647941680 c:\users\msi\desktop\program\ekosystem\ustawienia.h
+
+1650956108 source:c:\users\msi\desktop\program\ekosystem\nisza.cpp
+	"nisza.h"
+
+1650956108 c:\users\msi\desktop\program\ekosystem\nisza.h
+	"sasiedztwo.h"
+	"mieszkaniec.h"
+
+1649142332 c:\users\msi\desktop\program\ekosystem\sasiedztwo.h
+	"ustawienia.h"
+
+1647334960 source:c:\users\msi\desktop\program\ekosystem\organizm.cpp
+	"organizm.h"
+
+1647940220 c:\users\msi\desktop\program\ekosystem\organizm.h
+
+1650955660 source:c:\users\msi\desktop\program\ekosystem\osobniki.cpp
+	"osobniki.h"
+
+1650955664 c:\users\msi\desktop\program\ekosystem\osobniki.h
+	"mieszkaniec.h"
+	"organizm.h"
+	"ustawienia.h"
+	"generatorlosowy.h"
+	"sasiedztwo.h"
+
+1649143152 source:c:\users\msi\desktop\program\ekosystem\sasiedztwo.cpp
+	"sasiedztwo.h"
+	"generatorlosowy.h"
+
+1653257466 source:c:\users\msi\desktop\github\virtual_ecosystem\main.cpp
+	<iostream>
+	"generatorlosowy.h"
+	"sasiedztwo.h"
+	"ustawienia.h"
+	"nisza.h"
+	"osobniki.h"
+	<string>
+
+1647942006 c:\users\msi\desktop\github\virtual_ecosystem\generatorlosowy.h
+	<random>
+
+1649142332 c:\users\msi\desktop\github\virtual_ecosystem\sasiedztwo.h
+	"ustawienia.h"
+
+1647941680 c:\users\msi\desktop\github\virtual_ecosystem\ustawienia.h
+
+1650956108 c:\users\msi\desktop\github\virtual_ecosystem\nisza.h
+	"sasiedztwo.h"
+	"mieszkaniec.h"
+
+1649748090 c:\users\msi\desktop\github\virtual_ecosystem\mieszkaniec.h
+	"ustawienia.h"
+
+1650955664 c:\users\msi\desktop\github\virtual_ecosystem\osobniki.h
+	"mieszkaniec.h"
+	"organizm.h"
+	"ustawienia.h"
+	"generatorlosowy.h"
+	"sasiedztwo.h"
+
+1647940220 c:\users\msi\desktop\github\virtual_ecosystem\organizm.h
+
